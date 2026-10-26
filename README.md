@@ -10,6 +10,7 @@ I'm a second-year Computer Science student building practical programming skills
 
 ## Projects and coursework
 
+- [Java Club Management System](https://github.com/MaahnoorRajan/java-club-management-system) — Java OOP coursework with clubs, members, activities, console reports, and regression checks for maintenance fixes.
 - [Smart Dorm Map](https://github.com/MaahnoorRajan/Smart-Dorm-Map) — a Python/Tkinter project for room availability and reservations.
 - [Web and Internet Technology Labs](https://github.com/MaahnoorRajan/web-internet-technology-labs) — course exercises covering company records, event registration, forms, sessions, cookies, and HTML fundamentals.
 
