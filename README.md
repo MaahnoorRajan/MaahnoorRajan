@@ -6,7 +6,7 @@ I'm a second-year Computer Science student interested in building useful softwar
 
 [Fasal Ki Raah](https://github.com/MaahnoorRajan/fasal-ki-raah) is a farm-to-market transport prototype for smallholder farmers in Pakistan. It matches a crop shipment with available vehicle space, compares shared freight with hiring a whole pickup, and estimates what a farmer would take home after fees and unsold produce.
 
-The local Django app lets drivers post and withdraw dated trips and choose whether to share a WhatsApp number. Farmers can search for a matching trip and prepare a message to a driver who opted in. The [downloadable offline demo](https://github.com/MaahnoorRajan/fasal-ki-raah/blob/main/Open%20Fasal%20Ki%20Raah.html) uses fictional trips and rates; the project does not take bookings.
+The local Django app lets drivers post, edit, and withdraw dated trips and choose whether to share a WhatsApp number. Farmers can search for a matching trip and prepare a message to a driver who opted in. The [downloadable offline demo](https://github.com/MaahnoorRajan/fasal-ki-raah/blob/main/Open%20Fasal%20Ki%20Raah.html) uses fictional trips and rates; the project does not take bookings.
 
 I'm using this project to practise modelling real workflows, validating forms, working with SQLite, and writing tests for matching and permissions.
 
