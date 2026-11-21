@@ -22,7 +22,7 @@ The [deployed website](https://chemistry-atlas-delta.vercel.app/?lang=en) includ
 
 [Fasal Ki Raah](https://github.com/MaahnoorRajan/fasal-ki-raah) is a farm-to-market transport prototype for smallholder farmers in Pakistan. It matches a crop shipment with available vehicle space, compares shared freight with hiring a whole pickup, and estimates what a farmer would take home after fees and unsold produce.
 
-In the local Django prototype, farmers can find matching trips, request space, and see whether a driver accepted. Driver acceptance reserves capacity and updates what other farmers can find. The [downloadable offline demo](https://github.com/MaahnoorRajan/fasal-ki-raah/blob/main/Open%20Fasal%20Ki%20Raah.html) uses fictional trips and rates; reservations are for the local demo.
+In the local Django prototype, farmers can find matching trips, request space, and see whether a driver accepted. Driver acceptance reserves capacity and updates what other farmers can find. The local booking flow also supports cancellation with capacity release, driver-recorded collection, sender-confirmed delivery, and a history of status changes. The [downloadable offline demo](https://github.com/MaahnoorRajan/fasal-ki-raah/blob/main/Open%20Fasal%20Ki%20Raah.html) uses fictional trips and rates; reservations are for the local demo.
 
 I'm using this project to practise modelling real workflows, validating forms, working with SQLite, and writing tests for matching and permissions.
 
